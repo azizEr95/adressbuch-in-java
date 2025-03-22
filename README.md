@@ -93,20 +93,33 @@ mvn javafx:run
 ## Hier ein paar Bilder meines Projektes
 
 **Benutzeroberfläche, nach Start des Projektes mit Testdaten**
+
 <img width="597" alt="Bildschirmfoto 2025-03-22 um 13 28 59" src="https://github.com/user-attachments/assets/9e4d31c3-b95b-4b42-a6d1-dbaf78fa9bdf" />
 
 **Ein Kontakt hinzufügen**
+
+
 <img width="597" alt="Bildschirmfoto 2025-03-22 um 13 31 20" src="https://github.com/user-attachments/assets/a9db0945-7c29-410e-8465-9867e2c57443" />
 
 **nach einem Kontakt suchen**
+
+
 <img width="597" alt="Bildschirmfoto 2025-03-22 um 13 31 52" src="https://github.com/user-attachments/assets/7f3ce504-bb1a-47ae-b121-67e4b6f42b69" />
+
+
 
 <img width="597" alt="Bildschirmfoto 2025-03-22 um 13 32 02" src="https://github.com/user-attachments/assets/30b064f6-5cee-40fb-b93c-df1c5660f94b" />
 
 **Kontakt loeschen**
+
+
 <img width="597" alt="Bildschirmfoto 2025-03-22 um 13 32 20" src="https://github.com/user-attachments/assets/d2b4ea77-d8b9-42cb-8081-4f9d7880d8c8" />
+
+
 <img width="597" alt="Bildschirmfoto 2025-03-22 um 13 32 30" src="https://github.com/user-attachments/assets/056f9a8c-2cc2-41ad-8586-dec0d202f651" />
 
 **Terminplaner vom Kontakt Mike**
+
+
 <img width="597" alt="Bildschirmfoto 2025-03-22 um 13 32 41" src="https://github.com/user-attachments/assets/4b8b05f4-8d91-4cde-be68-0ee69a6dd72c" />
 
